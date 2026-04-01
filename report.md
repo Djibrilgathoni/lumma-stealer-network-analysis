@@ -5,7 +5,7 @@
 **Analyst:** Djibril  
 **Date of Report:** March 30, 2026  
 **Incident Date/Time:** 2026-01-27 23:05 UTC (Suricata alert trigger)  
-**PCAP Analyzed:** 2026-01-31-traffic-analysis-exercise.pcap
+**PCAP Analyzed:** 2026-01-31-traffic-analysis-exercise.pcap 
 
 ## 1. Executive Summary
 
